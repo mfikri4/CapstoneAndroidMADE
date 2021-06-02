@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Program Showing</string>
+    <string name="tvTitle">Title</string>
+    <string name="txtDate">Release Date</string>
+    <string name="tvDate">20 April 2021</string>
+    <string name="tvDescription">A Film is amazing for watch</string>
+    <string name="Description">Description</string>
+    <string name="tv">Tv</string>
+    <string name="movies">Movies</string>
+    <string name="tvRating">8,9</string>
+    <string name="tvCountRating">2900</string>
+    <string name="x">x reviews</string>
+    <string name="addData">Done Added Data</string>
+    <string name="removeData">Done Deleted Data</string>
+    <string name="bg_top">IB Top</string>
+    <string name="txWatch">Watch</string>
+    <string name="Ib_Fav">Btn Fav</string>
+    <string name="Ib_Setting">Btn Setting</string>
+    <string name="imagePost">"Image For Poster "</string>
+    <string name="txtDetail">"Text Detail "</string>
+    <string name="star">"Btn Review "</string>
+    <string name="btn_next">Btn Next</string>
+
+</resources>

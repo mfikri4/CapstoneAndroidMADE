@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tvTitle">Title</string>
+    <string name="txtDate">Release Date</string>
+    <string name="tvDate">20 April 2021</string>
+    <string name="tvRating">8,9</string>
+    <string name="imageList">Image for List</string>
+    <string name="imagestar">Image for Star</string>
+</resources>

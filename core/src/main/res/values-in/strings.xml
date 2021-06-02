@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tvTitle">Judul</string>
+    <string name="txtDate">Tanggal Rilis</string>
+    <string name="tvDate">20 April 2021</string>
+    <string name="tvRating">8,9</string>
+    <string name="imageList">Foto untuk list</string>
+    <string name="imagestar">Foto untuk bintang</string>
+</resources>

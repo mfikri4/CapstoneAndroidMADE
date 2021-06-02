@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Program Showing</string>
+    <string name="tvTitle">Judul</string>
+    <string name="txtDate">Tanggal Rilis</string>
+    <string name="tvDate">20 April 2021</string>
+    <string name="tvDescription">Sebuah Film luar biasa untuk ditonton</string>
+    <string name="Description">Deskripsi</string>
+    <string name="tv">Tv</string>
+    <string name="movies">Film</string>
+    <string name="tvRating">8,9</string>
+    <string name="tvCountRating">2900</string>
+    <string name="x">x ulasan</string>
+    <string name="addData">Berhasil Menambah Data</string>
+    <string name="removeData">Berhasil Menghapus Data</string>
+    <string name="bg_top">Ib Atas</string>
+    <string name="txWatch">Watch</string>
+    <string name="Ib_Fav">Btn Fav</string>
+    <string name="Ib_Setting">Btn Setting</string>
+    <string name="imagePost">Foto Untuk Poster</string>
+    <string name="txtDetail">Teks Detail</string>
+    <string name="star">Btn Ulasan</string>
+    <string name="btn_next">Btn Next</string>
+</resources>
